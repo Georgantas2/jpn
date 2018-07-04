@@ -16,4 +16,4 @@ https://www.airbnb.com/experiences/126468?location=Japan&source=p2&currentTab=ex
 
 https://www.airbnb.com/experiences/69159?location=Japan&source=p2&currentTab=experience_tab&searchId=fbf93c7d-739b-472f-864e-3d2fefc4e327&federatedSearchId=a0b28c20-45f4-4ed1-b73e-24f80ea6a107&sectionId=5caf8279-94b8-4298-9fd7-8fff66d93a60_8
 
-
+https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
